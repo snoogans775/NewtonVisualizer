@@ -1,8 +1,8 @@
-#Newton's Theorem Visualizer
+# Newton's Theorem Visualizer
 A simple visual interactive toy to demonstrate Newton's Method to find Tangent lines
 
-#Dependencies
+# Dependencies
 Processing 3
 
-#Notes
+# Notes
 Use mouse to determine starting value of x
