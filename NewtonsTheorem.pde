@@ -41,6 +41,7 @@ void newtonApprox() {
   //Draw line from x-intercept up to f(x-intercept)
   line(xIntercept, 0, xIntercept, -f(xIntercept));
   
+  //Print output for debugging
   println(initX+", "+f(initX)+", dX(initX)="+dX(initX));
 }
 
